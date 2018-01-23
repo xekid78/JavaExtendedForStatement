@@ -1,4 +1,4 @@
-# Java_SampleCode13
+# JavaSampleCode13
 拡張for文
 
 #### 処理
