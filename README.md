@@ -6,10 +6,10 @@
 
 ## コード
 ```
-public class sample13 {
+public class Exfor {
 
 	public static void main(String[] args) {
-		String[] team = {"佐藤","鈴木","田中","岸田","有森"};
+		String[] team = {"佐藤", "鈴木", "田中", "岸田", "有森"};
 		for (String member : team) {
 			System.out.println(member + "さん");
 		}
@@ -31,5 +31,6 @@ public class sample13 {
 ## 開発環境
 | 開発ツール |  |
 |:-|:-|
+| OS | Windows10 |
 | 統合開発環境(IDE) | Eclipse 4.7.0 Oxygen |
 | 開発言語 | Java8 |
